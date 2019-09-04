@@ -1,0 +1,501 @@
+F_no,F_company,F_arrival,F_departure,Arrival_time,Departure_time
+EK-1,Fly Emirates,Mumbai,Dublin,6:43,10:24
+EK-2,Fly Emirates,Mumbai,Riyadh,2:32,8:09
+EK-3,Fly Emirates,Mumbai,Dublin,3:13,4:17
+EK-4,Fly Emirates,Mumbai,Addis Ababa,8:31,5:00
+EK-5,Fly Emirates,Mumbai,Frankfurt,11:57,14:24
+EK-6,Fly Emirates,Mumbai,Brussels,17:12,3:29
+EK-7,Fly Emirates,Mumbai,New York,1:44,23:17
+EK-8,Fly Emirates,Mumbai,London,7:47,2:39
+EK-9,Fly Emirates,Mumbai,London,14:26,22:02
+EK-10,Fly Emirates,Mumbai,Riyadh,2:45,0:08
+EK-11,Fly Emirates,Mumbai,London,6:15,5:26
+EK-12,Fly Emirates,Mumbai,Tokyo,6:50,21:05
+EK-13,Fly Emirates,Mumbai,Paris,13:35,19:46
+EK-14,Fly Emirates,Mumbai,Frankfurt,10:30,9:31
+EK-15,Fly Emirates,Mumbai,Tokyo,12:59,2:35
+EK-16,Fly Emirates,Mumbai,Frankfurt,16:41,20:04
+EK-17,Fly Emirates,Mumbai,Dubai,23:54,12:13
+EK-18,Fly Emirates,Mumbai,Dubai,4:49,11:04
+EK-19,Fly Emirates,Mumbai,Riyadh,7:35,7:12
+EK-20,Fly Emirates,Mumbai,London,14:20,12:09
+EK-21,Fly Emirates,Mumbai,Riyadh,1:55,10:46
+EK-22,Fly Emirates,Mumbai,Paris,5:57,14:00
+EK-23,Fly Emirates,Mumbai,Frankfurt,18:38,16:30
+EK-24,Fly Emirates,Mumbai,Frankfurt,0:33,20:15
+EK-25,Fly Emirates,Mumbai,Addis Ababa,4:50,15:01
+EK-26,Fly Emirates,Mumbai,New York,15:27,16:45
+EK-27,Fly Emirates,Mumbai,Riyadh,17:41,12:42
+EK-28,Fly Emirates,Mumbai,Dublin,1:36,7:30
+EK-29,Fly Emirates,Mumbai,New York,6:14,21:42
+EK-30,Fly Emirates,Mumbai,Riyadh,17:07,17:49
+EK-31,Fly Emirates,Mumbai,New York,23:32,6:11
+EK-32,Fly Emirates,Mumbai,London,1:11,15:53
+EK-33,Fly Emirates,Mumbai,London,20:33,20:35
+EK-34,Fly Emirates,Mumbai,Frankfurt,0:38,19:14
+EK-35,Fly Emirates,Mumbai,Brussels,15:40,3:50
+EK-36,Fly Emirates,Mumbai,Dublin,18:38,12:31
+EK-37,Fly Emirates,Mumbai,Brussels,22:32,13:47
+EK-38,Fly Emirates,Mumbai,Tokyo,19:56,21:08
+EK-39,Fly Emirates,Mumbai,London,19:32,20:45
+EK-40,Fly Emirates,Mumbai,Paris,0:00,23:44
+EK-41,Fly Emirates,Mumbai,Tokyo,23:48,2:10
+EK-42,Fly Emirates,Mumbai,New York,0:42,13:43
+EK-43,Fly Emirates,Mumbai,New York,0:22,14:14
+EK-44,Fly Emirates,Mumbai,Brussels,12:54,7:01
+EK-45,Fly Emirates,Mumbai,Brussels,20:46,19:26
+EK-46,Fly Emirates,Mumbai,London,7:22,16:05
+EK-47,Fly Emirates,Mumbai,Addis Ababa,6:05,10:20
+EK-48,Fly Emirates,Mumbai,Dublin,15:21,23:19
+EK-49,Fly Emirates,Mumbai,Riyadh,0:16,22:13
+EK-50,Fly Emirates,Mumbai,Addis Ababa,21:36,18:54
+EY-51,Etihad,Mumbai,Frankfurt,9:16,18:22
+EY-52,Etihad,Mumbai,Addis Ababa,20:52,7:55
+EY-53,Etihad,Mumbai,Addis Ababa,16:38,14:39
+EY-54,Etihad,Mumbai,New York,4:20,22:48
+EY-55,Etihad,Mumbai,Dublin,13:57,8:46
+EY-56,Etihad,Mumbai,Dubai,4:01,12:14
+EY-57,Etihad,Mumbai,Tokyo,0:55,6:52
+EY-58,Etihad,Mumbai,Dubai,4:17,0:48
+EY-59,Etihad,Mumbai,Tokyo,19:44,18:46
+EY-60,Etihad,Mumbai,Brussels,10:09,19:05
+EY-61,Etihad,Mumbai,Tokyo,16:37,7:44
+EY-62,Etihad,Mumbai,New York,6:23,3:59
+EY-63,Etihad,Mumbai,New York,23:17,19:28
+EY-64,Etihad,Mumbai,Addis Ababa,13:30,14:29
+EY-65,Etihad,Mumbai,Brussels,10:41,1:23
+EY-66,Etihad,Mumbai,Brussels,10:02,8:26
+EY-67,Etihad,Mumbai,Brussels,6:56,7:51
+EY-68,Etihad,Mumbai,Tokyo,0:00,5:07
+EY-69,Etihad,Mumbai,New York,14:39,3:51
+EY-70,Etihad,Mumbai,Riyadh,4:11,8:54
+EY-71,Etihad,Mumbai,Riyadh,18:10,21:35
+EY-72,Etihad,Mumbai,Addis Ababa,0:43,13:29
+EY-73,Etihad,Mumbai,Frankfurt,3:16,10:55
+EY-74,Etihad,Mumbai,Brussels,3:39,13:11
+EY-75,Etihad,Mumbai,Paris,11:09,4:28
+EY-76,Etihad,Mumbai,Paris,8:37,5:34
+EY-77,Etihad,Mumbai,Frankfurt,22:12,0:08
+EY-78,Etihad,Mumbai,Dublin,10:07,4:00
+EY-79,Etihad,Mumbai,London,10:47,1:06
+EY-80,Etihad,Mumbai,New York,15:13,14:51
+EY-81,Etihad,Mumbai,Dubai,9:08,8:00
+EY-82,Etihad,Mumbai,New York,12:44,12:28
+EY-83,Etihad,Mumbai,Brussels,17:46,11:33
+EY-84,Etihad,Mumbai,Paris,0:27,14:52
+EY-85,Etihad,Mumbai,London,21:21,20:03
+EY-86,Etihad,Mumbai,Brussels,13:06,8:15
+EY-87,Etihad,Mumbai,Riyadh,15:35,3:04
+EY-88,Etihad,Mumbai,Dublin,10:15,21:20
+EY-89,Etihad,Mumbai,Tokyo,18:14,9:14
+EY-90,Etihad,Mumbai,Frankfurt,6:18,18:50
+EY-91,Etihad,Mumbai,New York,18:20,17:48
+EY-92,Etihad,Mumbai,New York,2:46,22:24
+EY-93,Etihad,Mumbai,Tokyo,0:53,0:17
+EY-94,Etihad,Mumbai,New York,19:41,9:34
+EY-95,Etihad,Mumbai,Paris,14:29,23:43
+EY-96,Etihad,Mumbai,London,21:50,7:24
+EY-97,Etihad,Mumbai,Dubai,23:43,5:07
+EY-98,Etihad,Mumbai,London,14:32,1:13
+EY-99,Etihad,Mumbai,Frankfurt,21:48,2:57
+EY-100,Etihad,Mumbai,London,1:26,4:15
+AF-101,Air France,Mumbai,Frankfurt,22:07,20:18
+AF-102,Air France,Mumbai,Dublin,14:32,15:40
+AF-103,Air France,Mumbai,London,16:38,15:23
+AF-104,Air France,Mumbai,Brussels,18:27,3:03
+AF-105,Air France,Mumbai,London,14:41,0:24
+AF-106,Air France,Mumbai,Frankfurt,0:44,11:20
+AF-107,Air France,Mumbai,Frankfurt,17:29,12:29
+AF-108,Air France,Mumbai,Brussels,19:29,8:16
+AF-109,Air France,Mumbai,Dubai,8:06,5:08
+AF-110,Air France,Mumbai,Addis Ababa,3:02,20:15
+AF-111,Air France,Mumbai,Brussels,11:52,3:22
+AF-112,Air France,Mumbai,Brussels,2:25,0:56
+AF-113,Air France,Mumbai,New York,21:21,12:19
+AF-114,Air France,Mumbai,Riyadh,13:14,0:52
+AF-115,Air France,Mumbai,Paris,6:39,2:58
+AF-116,Air France,Mumbai,New York,18:24,1:10
+AF-117,Air France,Mumbai,Riyadh,16:38,15:23
+AF-118,Air France,Mumbai,Tokyo,22:42,23:20
+AF-119,Air France,Mumbai,Tokyo,17:52,0:10
+AF-120,Air France,Mumbai,New York,11:44,12:32
+AF-121,Air France,Mumbai,Addis Ababa,9:34,1:59
+AF-122,Air France,Mumbai,Tokyo,15:32,23:01
+AF-123,Air France,Mumbai,Dubai,7:01,18:41
+AF-124,Air France,Mumbai,Frankfurt,22:07,0:20
+AF-125,Air France,Mumbai,Paris,21:12,17:55
+AF-126,Air France,Mumbai,Paris,1:09,20:27
+AF-127,Air France,Mumbai,Tokyo,21:20,21:00
+AF-128,Air France,Mumbai,Frankfurt,17:11,14:38
+AF-129,Air France,Mumbai,London,9:46,4:40
+AF-130,Air France,Mumbai,Dubai,2:14,6:44
+AF-131,Air France,Mumbai,New York,17:46,11:04
+AF-132,Air France,Mumbai,Dublin,2:52,8:37
+AF-133,Air France,Mumbai,Tokyo,13:34,11:40
+AF-134,Air France,Mumbai,Addis Ababa,9:11,0:44
+AF-135,Air France,Mumbai,Frankfurt,12:37,1:19
+AF-136,Air France,Mumbai,Dublin,19:58,0:00
+AF-137,Air France,Mumbai,Dubai,23:32,0:15
+AF-138,Air France,Mumbai,Paris,12:49,18:23
+AF-139,Air France,Mumbai,Brussels,14:29,12:00
+AF-140,Air France,Mumbai,Riyadh,1:26,16:40
+AF-141,Air France,Mumbai,Tokyo,4:19,11:49
+AF-142,Air France,Mumbai,Frankfurt,21:38,5:57
+AF-143,Air France,Mumbai,Frankfurt,20:55,2:10
+AF-144,Air France,Mumbai,Dubai,12:15,14:27
+AF-145,Air France,Mumbai,Dublin,5:45,4:41
+AF-146,Air France,Mumbai,Tokyo,2:40,4:23
+AF-147,Air France,Mumbai,Dubai,17:35,23:27
+AF-148,Air France,Mumbai,Riyadh,18:10,21:56
+AF-149,Air France,Mumbai,Paris,17:42,23:58
+AF-150,Air France,Mumbai,Addis Ababa,5:35,9:58
+KLM-151,Royal Dutch Airlines,Mumbai,Frankfurt,17:41,14:11
+KLM-152,Royal Dutch Airlines,Mumbai,Frankfurt,0:31,19:18
+KLM-153,Royal Dutch Airlines,Mumbai,Paris,0:06,17:04
+KLM-154,Royal Dutch Airlines,Mumbai,London,14:44,1:46
+KLM-155,Royal Dutch Airlines,Mumbai,London,8:55,18:27
+KLM-156,Royal Dutch Airlines,Mumbai,Brussels,8:14,16:03
+KLM-157,Royal Dutch Airlines,Mumbai,London,10:15,22:15
+KLM-158,Royal Dutch Airlines,Mumbai,Addis Ababa,10:04,22:34
+KLM-159,Royal Dutch Airlines,Mumbai,London,18:34,7:30
+KLM-160,Royal Dutch Airlines,Mumbai,London,7:17,14:23
+KLM-161,Royal Dutch Airlines,Mumbai,Tokyo,7:26,15:51
+KLM-162,Royal Dutch Airlines,Mumbai,Frankfurt,0:49,4:00
+KLM-163,Royal Dutch Airlines,Mumbai,Paris,9:51,23:10
+KLM-164,Royal Dutch Airlines,Mumbai,Tokyo,15:42,8:30
+KLM-165,Royal Dutch Airlines,Mumbai,Addis Ababa,22:52,18:09
+KLM-166,Royal Dutch Airlines,Mumbai,Brussels,11:13,16:41
+KLM-167,Royal Dutch Airlines,Mumbai,Paris,5:12,0:26
+KLM-168,Royal Dutch Airlines,Mumbai,Dubai,6:02,15:11
+KLM-169,Royal Dutch Airlines,Mumbai,Riyadh,2:00,2:20
+KLM-170,Royal Dutch Airlines,Mumbai,London,13:24,9:17
+KLM-171,Royal Dutch Airlines,Mumbai,Riyadh,6:37,11:21
+KLM-172,Royal Dutch Airlines,Mumbai,Riyadh,22:53,8:50
+KLM-173,Royal Dutch Airlines,Mumbai,Paris,23:03,12:24
+KLM-174,Royal Dutch Airlines,Mumbai,Dubai,2:04,17:38
+KLM-175,Royal Dutch Airlines,Mumbai,London,12:24,17:28
+KLM-176,Royal Dutch Airlines,Mumbai,Dublin,13:27,11:50
+KLM-177,Royal Dutch Airlines,Mumbai,Riyadh,2:46,5:55
+KLM-178,Royal Dutch Airlines,Mumbai,Riyadh,21:00,22:07
+KLM-179,Royal Dutch Airlines,Mumbai,Frankfurt,19:50,13:10
+KLM-180,Royal Dutch Airlines,Mumbai,Dubai,5:02,6:18
+KLM-181,Royal Dutch Airlines,Mumbai,New York,13:44,7:10
+KLM-182,Royal Dutch Airlines,Mumbai,Riyadh,13:23,20:08
+KLM-183,Royal Dutch Airlines,Mumbai,Dublin,11:36,10:51
+KLM-184,Royal Dutch Airlines,Mumbai,Dubai,3:11,19:52
+KLM-185,Royal Dutch Airlines,Mumbai,Addis Ababa,0:15,19:14
+KLM-186,Royal Dutch Airlines,Mumbai,New York,9:44,17:39
+KLM-187,Royal Dutch Airlines,Mumbai,Dubai,13:52,0:15
+KLM-188,Royal Dutch Airlines,Mumbai,Dubai,3:06,10:28
+KLM-189,Royal Dutch Airlines,Mumbai,Tokyo,18:28,4:12
+KLM-190,Royal Dutch Airlines,Mumbai,New York,2:42,3:04
+KLM-191,Royal Dutch Airlines,Mumbai,Riyadh,22:56,4:41
+KLM-192,Royal Dutch Airlines,Mumbai,Riyadh,17:39,6:51
+KLM-193,Royal Dutch Airlines,Mumbai,Tokyo,7:11,12:49
+KLM-194,Royal Dutch Airlines,Mumbai,Brussels,11:38,9:00
+KLM-195,Royal Dutch Airlines,Mumbai,London,14:24,2:32
+KLM-196,Royal Dutch Airlines,Mumbai,Riyadh,12:43,11:16
+KLM-197,Royal Dutch Airlines,Mumbai,Paris,22:49,11:35
+KLM-198,Royal Dutch Airlines,Mumbai,Riyadh,16:35,7:22
+KLM-199,Royal Dutch Airlines,Mumbai,Addis Ababa,23:28,14:00
+KLM-200,Royal Dutch Airlines,Mumbai,Dubai,13:18,15:23
+LH-201,Lufthansa,Mumbai,Brussels,3:39,18:26
+LH-202,Lufthansa,Mumbai,New York,21:06,21:20
+LH-203,Lufthansa,Mumbai,Riyadh,18:03,19:25
+LH-204,Lufthansa,Mumbai,New York,9:38,0:26
+LH-205,Lufthansa,Mumbai,London,19:07,9:31
+LH-206,Lufthansa,Mumbai,Tokyo,18:53,21:27
+LH-207,Lufthansa,Mumbai,London,22:17,12:30
+LH-208,Lufthansa,Mumbai,Dublin,1:52,6:55
+LH-209,Lufthansa,Mumbai,Tokyo,14:56,6:29
+LH-210,Lufthansa,Mumbai,Paris,6:32,15:29
+LH-211,Lufthansa,Mumbai,New York,18:26,5:11
+LH-212,Lufthansa,Mumbai,Dublin,11:26,4:53
+LH-213,Lufthansa,Mumbai,Dublin,17:32,9:48
+LH-214,Lufthansa,Mumbai,Paris,15:11,6:29
+LH-215,Lufthansa,Mumbai,Dublin,13:26,10:45
+LH-216,Lufthansa,Mumbai,Riyadh,20:31,8:17
+LH-217,Lufthansa,Mumbai,New York,2:40,10:29
+LH-218,Lufthansa,Mumbai,Frankfurt,20:31,10:02
+LH-219,Lufthansa,Mumbai,Riyadh,0:28,14:22
+LH-220,Lufthansa,Mumbai,Frankfurt,8:19,7:15
+LH-221,Lufthansa,Mumbai,Addis Ababa,5:51,17:38
+LH-222,Lufthansa,Mumbai,Dublin,9:47,16:16
+LH-223,Lufthansa,Mumbai,Tokyo,20:19,15:41
+LH-224,Lufthansa,Mumbai,Frankfurt,19:17,21:54
+LH-225,Lufthansa,Mumbai,Frankfurt,19:48,5:53
+LH-226,Lufthansa,Mumbai,London,23:47,19:32
+LH-227,Lufthansa,Mumbai,New York,23:42,15:55
+LH-228,Lufthansa,Mumbai,Dublin,22:20,12:30
+LH-229,Lufthansa,Mumbai,Brussels,9:08,23:41
+LH-230,Lufthansa,Mumbai,Dubai,15:06,15:50
+LH-231,Lufthansa,Mumbai,Brussels,12:50,23:25
+LH-232,Lufthansa,Mumbai,Brussels,7:35,21:39
+LH-233,Lufthansa,Mumbai,Brussels,15:40,23:05
+LH-234,Lufthansa,Mumbai,Riyadh,5:55,11:05
+LH-235,Lufthansa,Mumbai,Paris,7:09,12:01
+LH-236,Lufthansa,Mumbai,Brussels,1:54,9:34
+LH-237,Lufthansa,Mumbai,Dubai,7:05,10:49
+LH-238,Lufthansa,Mumbai,New York,11:40,3:45
+LH-239,Lufthansa,Mumbai,Dublin,1:21,22:44
+LH-240,Lufthansa,Mumbai,Dubai,14:35,2:49
+LH-241,Lufthansa,Mumbai,Brussels,14:43,13:53
+LH-242,Lufthansa,Mumbai,Dublin,16:51,12:42
+LH-243,Lufthansa,Mumbai,Addis Ababa,4:53,14:57
+LH-244,Lufthansa,Mumbai,Addis Ababa,2:56,11:39
+LH-245,Lufthansa,Mumbai,Tokyo,8:53,1:00
+LH-246,Lufthansa,Mumbai,Paris,12:54,22:57
+LH-247,Lufthansa,Mumbai,Tokyo,17:04,23:18
+LH-248,Lufthansa,Mumbai,London,2:35,17:24
+LH-249,Lufthansa,Mumbai,Addis Ababa,6:17,21:31
+LH-250,Lufthansa,Mumbai,Riyadh,10:40,3:05
+SQ-251,Singapore Airlines,Mumbai,Frankfurt,2:49,16:34
+SQ-252,Singapore Airlines,Mumbai,Paris,4:22,7:08
+SQ-253,Singapore Airlines,Mumbai,Frankfurt,17:43,13:00
+SQ-254,Singapore Airlines,Mumbai,Dubai,14:34,14:53
+SQ-255,Singapore Airlines,Mumbai,Frankfurt,3:49,23:55
+SQ-256,Singapore Airlines,Mumbai,Frankfurt,18:32,13:20
+SQ-257,Singapore Airlines,Mumbai,Frankfurt,12:01,6:06
+SQ-258,Singapore Airlines,Mumbai,Tokyo,3:34,18:21
+SQ-259,Singapore Airlines,Mumbai,Brussels,14:33,14:08
+SQ-260,Singapore Airlines,Mumbai,Dublin,18:46,13:51
+SQ-261,Singapore Airlines,Mumbai,Riyadh,23:24,18:37
+SQ-262,Singapore Airlines,Mumbai,Brussels,1:06,21:15
+SQ-263,Singapore Airlines,Mumbai,Addis Ababa,1:38,7:15
+SQ-264,Singapore Airlines,Mumbai,New York,23:20,6:19
+SQ-265,Singapore Airlines,Mumbai,New York,22:55,13:21
+SQ-266,Singapore Airlines,Mumbai,Dublin,4:26,16:49
+SQ-267,Singapore Airlines,Mumbai,Riyadh,18:04,13:22
+SQ-268,Singapore Airlines,Mumbai,Dublin,18:07,6:23
+SQ-269,Singapore Airlines,Mumbai,Tokyo,23:28,8:33
+SQ-270,Singapore Airlines,Mumbai,Frankfurt,21:16,20:33
+SQ-271,Singapore Airlines,Mumbai,Addis Ababa,4:12,20:20
+SQ-272,Singapore Airlines,Mumbai,Paris,8:21,10:23
+SQ-273,Singapore Airlines,Mumbai,Dubai,17:30,7:44
+SQ-274,Singapore Airlines,Mumbai,Brussels,9:20,8:02
+SQ-275,Singapore Airlines,Mumbai,Riyadh,19:22,9:24
+SQ-276,Singapore Airlines,Mumbai,Tokyo,19:24,11:14
+SQ-277,Singapore Airlines,Mumbai,New York,4:52,3:45
+SQ-278,Singapore Airlines,Mumbai,Brussels,10:23,6:24
+SQ-279,Singapore Airlines,Mumbai,Dublin,12:46,11:40
+SQ-280,Singapore Airlines,Mumbai,Riyadh,1:26,2:17
+SQ-281,Singapore Airlines,Mumbai,Riyadh,11:50,15:27
+SQ-282,Singapore Airlines,Mumbai,London,9:47,1:58
+SQ-283,Singapore Airlines,Mumbai,Paris,19:41,17:12
+SQ-284,Singapore Airlines,Mumbai,Tokyo,12:19,16:03
+SQ-285,Singapore Airlines,Mumbai,Addis Ababa,12:36,15:37
+SQ-286,Singapore Airlines,Mumbai,New York,22:14,10:16
+SQ-287,Singapore Airlines,Mumbai,Paris,23:22,3:48
+SQ-288,Singapore Airlines,Mumbai,London,3:14,1:46
+SQ-289,Singapore Airlines,Mumbai,New York,4:16,18:12
+SQ-290,Singapore Airlines,Mumbai,Riyadh,6:56,10:01
+SQ-291,Singapore Airlines,Mumbai,Paris,11:24,10:09
+SQ-292,Singapore Airlines,Mumbai,Dubai,0:38,14:22
+SQ-293,Singapore Airlines,Mumbai,Dubai,14:30,20:29
+SQ-294,Singapore Airlines,Mumbai,Brussels,21:59,19:53
+SQ-295,Singapore Airlines,Mumbai,London,3:29,22:58
+SQ-296,Singapore Airlines,Mumbai,Riyadh,2:27,14:15
+SQ-297,Singapore Airlines,Mumbai,Brussels,7:47,19:32
+SQ-298,Singapore Airlines,Mumbai,London,18:06,18:35
+SQ-299,Singapore Airlines,Mumbai,London,8:03,5:26
+SQ-300,Singapore Airlines,Mumbai,New York,15:41,3:10
+QT-301,Qatar Airways,Mumbai,Frankfurt,10:58,13:55
+QT-302,Qatar Airways,Mumbai,Tokyo,10:08,8:43
+QT-303,Qatar Airways,Mumbai,Frankfurt,0:08,1:19
+QT-304,Qatar Airways,Mumbai,New York,6:22,19:05
+QT-305,Qatar Airways,Mumbai,Addis Ababa,17:33,22:41
+QT-306,Qatar Airways,Mumbai,Paris,14:16,22:34
+QT-307,Qatar Airways,Mumbai,New York,16:14,6:25
+QT-308,Qatar Airways,Mumbai,Paris,0:50,18:12
+QT-309,Qatar Airways,Mumbai,Addis Ababa,21:19,22:59
+QT-310,Qatar Airways,Mumbai,Paris,18:57,9:30
+QT-311,Qatar Airways,Mumbai,Riyadh,4:50,12:13
+QT-312,Qatar Airways,Mumbai,Paris,4:24,16:39
+QT-313,Qatar Airways,Mumbai,Brussels,19:57,8:17
+QT-314,Qatar Airways,Mumbai,Dublin,0:50,23:59
+QT-315,Qatar Airways,Mumbai,Dubai,16:13,1:10
+QT-316,Qatar Airways,Mumbai,London,2:39,20:07
+QT-317,Qatar Airways,Mumbai,New York,16:55,7:21
+QT-318,Qatar Airways,Mumbai,Frankfurt,22:11,22:36
+QT-319,Qatar Airways,Mumbai,London,7:47,10:12
+QT-320,Qatar Airways,Mumbai,London,7:34,4:37
+QT-321,Qatar Airways,Mumbai,London,17:01,8:47
+QT-322,Qatar Airways,Mumbai,Dubai,8:30,17:41
+QT-323,Qatar Airways,Mumbai,New York,6:14,23:47
+QT-324,Qatar Airways,Mumbai,Frankfurt,20:39,20:40
+QT-325,Qatar Airways,Mumbai,Dubai,21:56,19:27
+QT-326,Qatar Airways,Mumbai,Frankfurt,1:37,6:36
+QT-327,Qatar Airways,Mumbai,Dubai,14:21,8:13
+QT-328,Qatar Airways,Mumbai,Addis Ababa,12:52,15:23
+QT-329,Qatar Airways,Mumbai,Addis Ababa,6:08,11:02
+QT-330,Qatar Airways,Mumbai,Paris,7:47,13:26
+QT-331,Qatar Airways,Mumbai,New York,4:32,18:40
+QT-332,Qatar Airways,Mumbai,Tokyo,23:49,2:03
+QT-333,Qatar Airways,Mumbai,Frankfurt,4:05,10:10
+QT-334,Qatar Airways,Mumbai,Frankfurt,5:50,7:15
+QT-335,Qatar Airways,Mumbai,Addis Ababa,19:31,23:02
+QT-336,Qatar Airways,Mumbai,Addis Ababa,23:49,10:26
+QT-337,Qatar Airways,Mumbai,Dublin,8:36,2:56
+QT-338,Qatar Airways,Mumbai,London,4:53,12:25
+QT-339,Qatar Airways,Mumbai,Paris,23:44,20:29
+QT-340,Qatar Airways,Mumbai,Paris,15:46,8:48
+QT-341,Qatar Airways,Mumbai,Dubai,9:21,2:32
+QT-342,Qatar Airways,Mumbai,Addis Ababa,1:40,4:20
+QT-343,Qatar Airways,Mumbai,London,0:46,18:06
+QT-344,Qatar Airways,Mumbai,Frankfurt,17:19,4:04
+QT-345,Qatar Airways,Mumbai,Dubai,20:31,8:55
+QT-346,Qatar Airways,Mumbai,Paris,13:29,11:57
+QT-347,Qatar Airways,Mumbai,Tokyo,7:14,11:05
+QT-348,Qatar Airways,Mumbai,Brussels,8:03,6:12
+QT-349,Qatar Airways,Mumbai,Brussels,2:20,14:54
+QT-350,Qatar Airways,Mumbai,New York,21:26,2:49
+TK-351,Turkish Airlines,Mumbai,Tokyo,2:14,14:26
+TK-352,Turkish Airlines,Mumbai,New York,14:28,1:58
+TK-353,Turkish Airlines,Mumbai,Addis Ababa,7:05,13:16
+TK-354,Turkish Airlines,Mumbai,Addis Ababa,19:25,5:09
+TK-355,Turkish Airlines,Mumbai,Tokyo,14:03,5:03
+TK-356,Turkish Airlines,Mumbai,New York,23:23,15:27
+TK-357,Turkish Airlines,Mumbai,Dublin,5:24,18:38
+TK-358,Turkish Airlines,Mumbai,Addis Ababa,12:18,21:47
+TK-359,Turkish Airlines,Mumbai,Frankfurt,12:52,16:20
+TK-360,Turkish Airlines,Mumbai,Tokyo,0:13,10:49
+TK-361,Turkish Airlines,Mumbai,London,9:29,8:22
+TK-362,Turkish Airlines,Mumbai,Addis Ababa,22:03,21:42
+TK-363,Turkish Airlines,Mumbai,Brussels,6:00,2:52
+TK-364,Turkish Airlines,Mumbai,London,22:53,1:11
+TK-365,Turkish Airlines,Mumbai,London,16:32,10:02
+TK-366,Turkish Airlines,Mumbai,Dublin,1:16,1:25
+TK-367,Turkish Airlines,Mumbai,Dubai,4:37,13:31
+TK-368,Turkish Airlines,Mumbai,Dublin,9:42,9:54
+TK-369,Turkish Airlines,Mumbai,Frankfurt,22:48,16:34
+TK-370,Turkish Airlines,Mumbai,New York,6:31,14:04
+TK-371,Turkish Airlines,Mumbai,Addis Ababa,10:41,4:51
+TK-372,Turkish Airlines,Mumbai,Dublin,23:19,5:10
+TK-373,Turkish Airlines,Mumbai,Tokyo,16:28,1:25
+TK-374,Turkish Airlines,Mumbai,Frankfurt,6:17,11:09
+TK-375,Turkish Airlines,Mumbai,Frankfurt,15:05,6:15
+TK-376,Turkish Airlines,Mumbai,Dublin,6:41,20:22
+TK-377,Turkish Airlines,Mumbai,Riyadh,3:52,17:36
+TK-378,Turkish Airlines,Mumbai,New York,21:17,18:06
+TK-379,Turkish Airlines,Mumbai,Frankfurt,20:33,20:04
+TK-380,Turkish Airlines,Mumbai,Frankfurt,0:48,17:35
+TK-381,Turkish Airlines,Mumbai,Brussels,19:44,7:52
+TK-382,Turkish Airlines,Mumbai,Dublin,13:15,6:25
+TK-383,Turkish Airlines,Mumbai,Riyadh,21:36,2:41
+TK-384,Turkish Airlines,Mumbai,New York,14:00,12:02
+TK-385,Turkish Airlines,Mumbai,Paris,1:34,8:05
+TK-386,Turkish Airlines,Mumbai,Brussels,17:38,23:21
+TK-387,Turkish Airlines,Mumbai,Dublin,4:13,12:34
+TK-388,Turkish Airlines,Mumbai,Paris,15:24,12:02
+TK-389,Turkish Airlines,Mumbai,Tokyo,15:04,8:59
+TK-390,Turkish Airlines,Mumbai,London,1:15,15:57
+TK-391,Turkish Airlines,Mumbai,London,20:01,11:37
+TK-392,Turkish Airlines,Mumbai,Paris,23:44,22:02
+TK-393,Turkish Airlines,Mumbai,New York,0:12,20:25
+TK-394,Turkish Airlines,Mumbai,Paris,10:27,6:00
+TK-395,Turkish Airlines,Mumbai,New York,22:50,10:59
+TK-396,Turkish Airlines,Mumbai,Frankfurt,20:56,16:46
+TK-397,Turkish Airlines,Mumbai,Brussels,14:11,15:02
+TK-398,Turkish Airlines,Mumbai,Frankfurt,13:21,11:03
+TK-399,Turkish Airlines,Mumbai,Dubai,8:43,10:57
+TK-400,Turkish Airlines,Mumbai,Riyadh,11:20,7:54
+BA-401,British Airways,Mumbai,Dubai,0:42,5:57
+BA-402,British Airways,Mumbai,Riyadh,9:16,14:53
+BA-403,British Airways,Mumbai,Paris,4:33,23:06
+BA-404,British Airways,Mumbai,Paris,9:51,21:41
+BA-405,British Airways,Mumbai,Brussels,7:58,20:50
+BA-406,British Airways,Mumbai,Dublin,13:59,6:00
+BA-407,British Airways,Mumbai,Paris,14:50,12:32
+BA-408,British Airways,Mumbai,Riyadh,18:33,23:55
+BA-409,British Airways,Mumbai,Addis Ababa,6:52,22:07
+BA-410,British Airways,Mumbai,Paris,7:39,11:00
+BA-411,British Airways,Mumbai,Frankfurt,11:27,13:57
+BA-412,British Airways,Mumbai,London,2:58,13:22
+BA-413,British Airways,Mumbai,Dublin,1:28,7:04
+BA-414,British Airways,Mumbai,Brussels,17:50,3:46
+BA-415,British Airways,Mumbai,New York,23:38,20:38
+BA-416,British Airways,Mumbai,Paris,20:43,12:28
+BA-417,British Airways,Mumbai,Riyadh,0:56,20:10
+BA-418,British Airways,Mumbai,Riyadh,1:33,12:00
+BA-419,British Airways,Mumbai,Dublin,16:53,0:10
+BA-420,British Airways,Mumbai,Riyadh,6:59,21:12
+BA-421,British Airways,Mumbai,Frankfurt,20:50,19:34
+BA-422,British Airways,Mumbai,Dubai,18:50,16:42
+BA-423,British Airways,Mumbai,Riyadh,2:29,6:49
+BA-424,British Airways,Mumbai,Frankfurt,14:01,5:43
+BA-425,British Airways,Mumbai,Tokyo,23:45,2:05
+BA-426,British Airways,Mumbai,Addis Ababa,16:05,16:48
+BA-427,British Airways,Mumbai,London,20:29,0:15
+BA-428,British Airways,Mumbai,Paris,8:38,6:51
+BA-429,British Airways,Mumbai,Riyadh,0:22,21:46
+BA-430,British Airways,Mumbai,Dublin,16:06,23:17
+BA-431,British Airways,Mumbai,Frankfurt,20:11,7:39
+BA-432,British Airways,Mumbai,Tokyo,5:39,21:30
+BA-433,British Airways,Mumbai,Paris,6:16,7:25
+BA-434,British Airways,Mumbai,Paris,10:28,6:01
+BA-435,British Airways,Mumbai,Tokyo,20:00,13:27
+BA-436,British Airways,Mumbai,Tokyo,20:49,8:43
+BA-437,British Airways,Mumbai,Dubai,20:57,10:16
+BA-438,British Airways,Mumbai,New York,7:32,17:06
+BA-439,British Airways,Mumbai,Frankfurt,21:38,22:31
+BA-440,British Airways,Mumbai,Dubai,17:50,11:49
+BA-441,British Airways,Mumbai,Brussels,0:43,3:49
+BA-442,British Airways,Mumbai,London,16:36,5:59
+BA-443,British Airways,Mumbai,Dublin,22:07,21:53
+BA-444,British Airways,Mumbai,Brussels,16:17,1:28
+BA-445,British Airways,Mumbai,Frankfurt,19:34,9:54
+BA-446,British Airways,Mumbai,Brussels,10:46,4:21
+BA-447,British Airways,Mumbai,Brussels,5:35,17:06
+BA-448,British Airways,Mumbai,Frankfurt,12:16,12:03
+BA-449,British Airways,Mumbai,Paris,5:15,9:03
+BA-450,British Airways,Mumbai,Addis Ababa,13:05,10:02
+SN-451,SN Brussels,Mumbai,Tokyo,16:29,19:30
+SN-452,SN Brussels,Mumbai,Dublin,15:38,20:32
+SN-453,SN Brussels,Mumbai,Tokyo,3:37,23:22
+SN-454,SN Brussels,Mumbai,Riyadh,7:07,13:00
+SN-455,SN Brussels,Mumbai,Brussels,11:25,14:29
+SN-456,SN Brussels,Mumbai,London,2:05,4:22
+SN-457,SN Brussels,Mumbai,Tokyo,8:56,15:39
+SN-458,SN Brussels,Mumbai,Frankfurt,11:58,21:31
+SN-459,SN Brussels,Mumbai,Dublin,1:42,1:48
+SN-460,SN Brussels,Mumbai,Addis Ababa,14:15,10:40
+SN-461,SN Brussels,Mumbai,Brussels,21:49,0:43
+SN-462,SN Brussels,Mumbai,Tokyo,7:46,20:14
+SN-463,SN Brussels,Mumbai,New York,7:06,20:01
+SN-464,SN Brussels,Mumbai,Brussels,17:06,14:28
+SN-465,SN Brussels,Mumbai,Dublin,0:13,13:42
+SN-466,SN Brussels,Mumbai,Dubai,19:40,8:10
+SN-467,SN Brussels,Mumbai,Frankfurt,12:14,7:58
+SN-468,SN Brussels,Mumbai,Dubai,1:32,21:55
+SN-469,SN Brussels,Mumbai,London,14:02,12:49
+SN-470,SN Brussels,Mumbai,Riyadh,16:53,4:05
+SN-471,SN Brussels,Mumbai,New York,14:59,13:08
+SN-472,SN Brussels,Mumbai,Brussels,2:15,12:07
+SN-473,SN Brussels,Mumbai,Dubai,10:56,18:26
+SN-474,SN Brussels,Mumbai,Frankfurt,22:46,6:53
+SN-475,SN Brussels,Mumbai,Paris,15:58,6:50
+SN-476,SN Brussels,Mumbai,Paris,10:52,10:37
+SN-477,SN Brussels,Mumbai,Tokyo,19:39,22:22
+SN-478,SN Brussels,Mumbai,Frankfurt,12:41,7:10
+SN-479,SN Brussels,Mumbai,Dublin,18:03,10:04
+SN-480,SN Brussels,Mumbai,Frankfurt,5:31,20:19
+SN-481,SN Brussels,Mumbai,Frankfurt,12:01,12:59
+SN-482,SN Brussels,Mumbai,Dubai,21:18,21:46
+SN-483,SN Brussels,Mumbai,Paris,3:54,0:16
+SN-484,SN Brussels,Mumbai,Tokyo,12:05,7:05
+SN-485,SN Brussels,Mumbai,Tokyo,6:22,13:14
+SN-486,SN Brussels,Mumbai,Riyadh,12:27,9:38
+SN-487,SN Brussels,Mumbai,New York,6:34,15:28
+SN-488,SN Brussels,Mumbai,Paris,21:18,15:05
+SN-489,SN Brussels,Mumbai,New York,15:47,16:15
+SN-490,SN Brussels,Mumbai,Paris,3:32,7:08
+SN-491,SN Brussels,Mumbai,Tokyo,2:26,14:28
+SN-492,SN Brussels,Mumbai,Brussels,11:33,8:29
+SN-493,SN Brussels,Mumbai,Frankfurt,1:18,17:22
+SN-494,SN Brussels,Mumbai,Addis Ababa,0:43,15:19
+SN-495,SN Brussels,Mumbai,Paris,8:07,16:10
+SN-496,SN Brussels,Mumbai,Addis Ababa,20:44,9:08
+SN-497,SN Brussels,Mumbai,London,10:18,19:53
+SN-498,SN Brussels,Mumbai,London,6:05,2:05
+SN-499,SN Brussels,Mumbai,Addis Ababa,1:48,17:13
+SN-500,SN Brussels,Mumbai,Frankfurt,18:09,18:52

@@ -1,0 +1,201 @@
+Emp_id,Salary,Job_title,Dept_id
+1,20000,Baggage Handler,0
+2,50000,Commercial Manager,2
+3,55000,Customs Officer,0
+4,32000,Technician,3
+5,15000,Security Guard,1
+6,40000,Aerodome Supervisor,3
+7,32000,Technician,3
+8,37000,QC officer,4
+9,15000,Security Guard,1
+10,55000,Customs Officer,0
+11,20000,Baggage Handler,0
+12,50000,Commercial Manager,2
+13,37000,QC officer,4
+14,37000,QC officer,4
+15,25000,Security Supervisor,1
+16,15000,Security Guard,1
+17,20000,Cleaner,3
+18,20000,Cleaner,3
+19,50000,Commercial Manager,2
+20,37000,QC officer,4
+21,37000,QC officer,4
+22,55000,Customs Officer,0
+23,37000,QC officer,4
+24,55000,Customs Officer,0
+25,60000,Emmigration Officer,0
+26,60000,Emmigration Officer,0
+27,50000,Commercial Manager,2
+28,20000,Cleaner,3
+29,37000,QC officer,4
+30,37000,QC officer,4
+31,50000,Commercial Manager,2
+32,15000,Security Guard,1
+33,25000,Security Supervisor,1
+34,50000,Commercial Manager,2
+35,25000,Electrician,3
+36,15000,Security Guard,1
+37,25000,Security Supervisor,1
+38,25000,Electrician,3
+39,40000,Management Supervisor,3
+40,15000,Security Guard,1
+41,15000,Security Guard,1
+42,37000,QC officer,4
+43,32000,Technician,3
+44,25000,Security Supervisor,1
+45,20000,Baggage Handler,0
+46,37000,QC officer,4
+47,15000,Security Guard,1
+48,55000,Customs Officer,0
+49,50000,Commercial Manager,2
+50,50000,Commercial Manager,2
+51,50000,Commercial Manager,2
+52,37000,QC officer,4
+53,37000,QC officer,4
+54,32000,Technician,3
+55,37000,QC officer,4
+56,50000,Commercial Manager,2
+57,50000,Commercial Manager,2
+58,32000,Passenger Associate,3
+59,15000,Security Guard,1
+60,55000,Customs Officer,0
+61,45000,Ast Customs officer,0
+62,37000,QC officer,4
+63,37000,QC officer,4
+64,25000,Security Supervisor,1
+65,20000,Cleaner,3
+66,25000,Security Supervisor,1
+67,40000,Management Supervisor,3
+68,15000,Security Guard,1
+69,37000,QC officer,4
+70,55000,Customs Officer,0
+71,37000,QC officer,4
+72,50000,Commercial Manager,2
+73,37000,QC officer,4
+74,50000,Commercial Manager,2
+75,37000,QC officer,4
+76,50000,Commercial Manager,2
+77,37000,QC officer,4
+78,37000,QC officer,4
+79,37000,QC officer,4
+80,50000,Commercial Manager,2
+81,55000,Customs Officer,0
+82,50000,Commercial Manager,2
+83,50000,Commercial Manager,2
+84,50000,Commercial Manager,2
+85,50000,Commercial Manager,2
+86,25000,Security Supervisor,1
+87,45000,Ast Customs officer,0
+88,20000,Cleaner,3
+89,25000,Security Supervisor,1
+90,32000,Passenger Associate,3
+91,37000,QC officer,4
+92,37000,QC officer,4
+93,25000,Security Supervisor,1
+94,37000,QC officer,4
+95,45000,Ast Customs officer,0
+96,60000,Emmigration Officer,0
+97,50000,Commercial Manager,2
+98,60000,Emmigration Officer,0
+99,32000,Technician,3
+100,50000,Commercial Manager,2
+101,40000,Management Supervisor,3
+102,25000,Security Supervisor,1
+103,15000,Security Guard,1
+104,25000,Security Supervisor,1
+105,15000,Security Guard,1
+106,40000,Management Supervisor,3
+107,50000,Commercial Manager,2
+108,45000,Ast Customs officer,0
+109,40000,Aerodome Supervisor,3
+110,15000,Security Guard,1
+111,37000,QC officer,4
+112,37000,QC officer,4
+113,50000,Commercial Manager,2
+114,15000,Security Guard,1
+115,15000,Security Guard,1
+116,45000,Ast Customs officer,0
+117,15000,Security Guard,1
+118,40000,Management Supervisor,3
+119,50000,Commercial Manager,2
+120,37000,QC officer,4
+121,37000,QC officer,4
+122,55000,Customs Officer,0
+123,15000,Security Guard,1
+124,25000,Security Supervisor,1
+125,15000,Security Guard,1
+126,25000,Security Supervisor,1
+127,25000,Electrician,3
+128,37000,QC officer,4
+129,55000,Customs Officer,0
+130,37000,QC officer,4
+131,32000,Passenger Associate,3
+132,50000,Commercial Manager,2
+133,45000,Ast Customs officer,0
+134,20000,Cleaner,3
+135,20000,Cleaner,3
+136,25000,Electrician,3
+137,40000,Management Supervisor,3
+138,37000,QC officer,4
+139,37000,QC officer,4
+140,40000,Management Supervisor,3
+141,55000,Customs Officer,0
+142,32000,Technician,3
+143,37000,QC officer,4
+144,60000,Emmigration Officer,0
+145,55000,Customs Officer,0
+146,37000,QC officer,4
+147,25000,Security Supervisor,1
+148,20000,Cleaner,3
+149,37000,QC officer,4
+150,20000,Baggage Handler,0
+151,50000,Commercial Manager,2
+152,20000,Baggage Handler,0
+153,50000,Commercial Manager,2
+154,50000,Commercial Manager,2
+155,25000,Security Supervisor,1
+156,15000,Security Guard,1
+157,37000,QC officer,4
+158,37000,QC officer,4
+159,50000,Commercial Manager,2
+160,25000,Security Supervisor,1
+161,50000,Commercial Manager,2
+162,40000,Management Supervisor,3
+163,37000,QC officer,4
+164,25000,Security Supervisor,1
+165,15000,Security Guard,1
+166,15000,Security Guard,1
+167,60000,Emmigration Officer,0
+168,50000,Commercial Manager,2
+169,50000,Commercial Manager,2
+170,50000,Commercial Manager,2
+171,50000,Commercial Manager,2
+172,55000,Customs Officer,0
+173,50000,Commercial Manager,2
+174,20000,Baggage Handler,0
+175,55000,Customs Officer,0
+176,50000,Commercial Manager,2
+177,50000,Commercial Manager,2
+178,32000,Passenger Associate,3
+179,50000,Commercial Manager,2
+180,20000,Cleaner,3
+181,15000,Security Guard,1
+182,50000,Commercial Manager,2
+183,60000,Emmigration Officer,0
+184,50000,Commercial Manager,2
+185,60000,Emmigration Officer,0
+186,32000,Technician,3
+187,25000,Security Supervisor,1
+188,32000,Technician,3
+189,37000,QC officer,4
+190,50000,Commercial Manager,2
+191,15000,Security Guard,1
+192,15000,Security Guard,1
+193,25000,Security Supervisor,1
+194,37000,QC officer,4
+195,25000,Electrician,3
+196,45000,Ast Customs officer,0
+197,37000,QC officer,4
+198,50000,Commercial Manager,2
+199,40000,Management Supervisor,3
+200,,,
